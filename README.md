@@ -1,4 +1,3 @@
-Here’s your content arranged neatly into **proper Markdown format** without altering any attached images:
 
 ---
 
